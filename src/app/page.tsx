@@ -67,7 +67,7 @@ export default function LandingPage() {
           handle: "@emma_kbeauty",
           testimonial: "The authenticity is unmatched! Finally a store I trust.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/make-up-concept-with-golden-plant_23-2149030352.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/make-up-concept-with-golden-plant_23-2149030352.jpg?_wi=1",
           imageAlt: "korean skincare products luxury photography",
         },
         {
@@ -75,7 +75,7 @@ export default function LandingPage() {
           handle: "@kbeauty_enthusiast",
           testimonial: "Fast delivery and curated selection. Simply the best.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/decor-with-pumpkins-figurine_23-2147680561.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/decor-with-pumpkins-figurine_23-2147680561.jpg?_wi=1",
           imageAlt: "korean skincare products luxury photography",
         },
         {
@@ -83,7 +83,7 @@ export default function LandingPage() {
           handle: "@skincareaddict",
           testimonial: "Everything I ordered was 100% genuine. Highly recommended.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/beauty-cream-with-natural-elements_23-2148173885.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beauty-cream-with-natural-elements_23-2148173885.jpg?_wi=1",
           imageAlt: "korean skincare products luxury photography",
         },
         {
@@ -91,7 +91,7 @@ export default function LandingPage() {
           handle: "@k_fanatic",
           testimonial: "Crispy has transformed my skincare routine completely.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skin-regeneration-products_23-2151242178.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skin-regeneration-products_23-2151242178.jpg?_wi=1",
           imageAlt: "korean skincare products luxury photography",
         },
         {
@@ -99,7 +99,7 @@ export default function LandingPage() {
           handle: "@glowwithchloe",
           testimonial: "Obsessed with their curated K-beauty drops!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/foundation-bottles-stands_23-2149511226.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/foundation-bottles-stands_23-2149511226.jpg?_wi=1",
           imageAlt: "korean skincare products luxury photography",
         },
       ]}
@@ -109,7 +109,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/make-up-concept-with-golden-plant_23-2149030352.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/make-up-concept-with-golden-plant_23-2149030352.jpg?_wi=2"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -163,7 +163,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="Our K-Beauty Mission"
       description="We believe in the power of Korean beauty culture to transform skincare routines. Crispy was founded to bridge the gap for beauty enthusiasts worldwide, providing direct access to the latest, most effective K-beauty solutions."
-      imageSrc="http://img.b2bpic.net/free-photo/decor-with-pumpkins-figurine_23-2147680561.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/decor-with-pumpkins-figurine_23-2147680561.jpg?_wi=2"
     />
   </div>
 
@@ -186,7 +186,7 @@ export default function LandingPage() {
           title: "Curated Trends",
           description: "Always the latest drops, carefully picked by experts.",
           tag: "Trend",
-          imageSrc: "http://img.b2bpic.net/free-photo/make-up-concept-with-golden-plant_23-2149030352.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/make-up-concept-with-golden-plant_23-2149030352.jpg?_wi=3",
           imageAlt: "High angle delicious pastry on table",
         },
         {
@@ -194,7 +194,7 @@ export default function LandingPage() {
           title: "Fast Shipping",
           description: "Global distribution centers ensure rapid delivery.",
           tag: "Speed",
-          imageSrc: "http://img.b2bpic.net/free-photo/decor-with-pumpkins-figurine_23-2147680561.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/decor-with-pumpkins-figurine_23-2147680561.jpg?_wi=3",
           imageAlt: "High angle delicious pastry on table",
         },
       ]}
@@ -217,7 +217,7 @@ export default function LandingPage() {
           price: "$22",
           rating: 5,
           reviewCount: "1.2k",
-          imageSrc: "http://img.b2bpic.net/free-photo/beauty-cream-with-natural-elements_23-2148173885.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beauty-cream-with-natural-elements_23-2148173885.jpg?_wi=2",
         },
         {
           id: "p2",
@@ -226,7 +226,7 @@ export default function LandingPage() {
           price: "$28",
           rating: 5,
           reviewCount: "980",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skin-regeneration-products_23-2151242178.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skin-regeneration-products_23-2151242178.jpg?_wi=2",
         },
         {
           id: "p3",
@@ -235,7 +235,7 @@ export default function LandingPage() {
           price: "$24",
           rating: 5,
           reviewCount: "2.4k",
-          imageSrc: "http://img.b2bpic.net/free-photo/foundation-bottles-stands_23-2149511226.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/foundation-bottles-stands_23-2149511226.jpg?_wi=2",
         },
         {
           id: "p4",
